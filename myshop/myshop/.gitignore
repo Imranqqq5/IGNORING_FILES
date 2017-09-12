@@ -1,0 +1,5 @@
+.git/
+.idea/
+media/
+__pycache__
+db.sqlite3
